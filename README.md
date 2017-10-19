@@ -3,7 +3,7 @@ Matlab code accompanying the paper
 
 "Neural field model to reconcile structure with function in primary visual cortex", *PLOS Computational Biology*
 by James Rankin (University of Exeter) and Frédéric Chavane (CNRS & Aix-Marseilles University)
-doi: [xxx](http://journals.plos.org/ploscompbiol/)
+doi: [10.1371/journal.pcbi.1005821](https://doi.org/10.1371/journal.pcbi.1005821)
 
 A brief description of each file is given here, with detailed comments 
 (referencing equations in the paper) provided primarily in `RunModel.m`
